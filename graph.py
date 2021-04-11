@@ -6,6 +6,8 @@ import numpy as np
 #data = ast.literal_eval(file.read())
 #file.close()
 
+#Code not working because ast cannot read the saved strings, or read the imaginary component of the y series for the experimental scatterplot
+
 x = np.array([4.9518579 , 4.95239844, 4.95293898, 4.95347952, 4.95402006,
        4.9545606 , 4.95510114, 4.95564168, 4.95618222, 4.95672276,
        4.9572633 , 4.95780384, 4.95834439, 4.95888493, 4.95942547,
