@@ -9,6 +9,11 @@ the [0, 1] basis.
 
 In this project we are interested in learning more about these higher energy states. 
 
+The first important step is understanding the problem. And IBM provides a tutorial 
+that introduces us to this calibration procedure (see link below) for discrimnating
+betwen different energy states. 
+So, first we try to replicate this tutorial and see what our results look like in comparison.
+
 There were several problems that were encountered though;
 
 1. Importing qiskit Pulse using qiskit==0.25 failed for an unkown reason (import related error). 
