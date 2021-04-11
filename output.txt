@@ -1,0 +1,10 @@
+Qubit 0 has an estimated frequency of 4.971857898749946 GHz.
+The frequency sweep will go from 4.951857898749947 GHz to 4.991857898749947 GHz using 75 frequencies. The drive power is 0.4.
+60728e44b08e357e7206745b
+Job Status: job has successfully run
+We've updated our qubit frequency estimate from 4.9718579 GHz to 4.9718642 GHz.
+6072a41615e37f17a2150d0c
+Job Status: job has successfully run
+Pi Amplitude (0->1) = 0.20202799844357094
+6072b75ad89dd509e9ece216
+Job Status: job has successfully run
